@@ -1,0 +1,46 @@
+.reveal .progress { height: 10px; }
+img.no-border{border: none !important;}
+blockquote:before {
+  content: '“';
+}
+blockquote:after {
+  content: '‟';
+}
+.small {
+  font-size: 0.5em !important;
+}
+.reveal a:hover {
+    color: violet;
+}
+.reveal section img {
+    border: initial;
+    box-shadow: initial;
+}
+
+.reveal small {
+  display: block;
+}
+
+.leftAligned {
+  text-align: left;
+}
+
+.reveal .huge-img {
+  margin-top: -15px;
+}
+
+.reveal .smaller-list {
+  font-size: 0.7em !important;
+}
+
+.reveal .progress,
+.reveal .controls-arrow {
+  color:  #404777 !important;
+}
+
+.reveal {
+  font-family: "Source Sans Pro", Segoe UI Light;
+  font-size: 42px;
+  font-weight: normal;
+  color: #404777 !important
+}
