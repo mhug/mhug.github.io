@@ -13,6 +13,7 @@ sections:
     content:
       title: Selected Projects
       text: ''
+      count: 7
       filters:
         folders:
           - projects
