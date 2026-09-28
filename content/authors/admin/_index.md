@@ -197,4 +197,4 @@ languages:
 #      Awarded for groundbreaking work on efficient training of large models.
 ---
 
-Marius Hug ist Wissenschafticher Mitarbeiter am Zentrum Sprache der [Berlin-Brandenburgischen Akademie der Wissenschaften](https://www.bbaw.de/). Im Rahmen der Nationalen Forschungsdateninfrastruktur (NFDI) betreut er für das Konsortium [Text+](https://text-plus.org/) das [Deutsche Textarchiv](https://www.deutschestextarchiv.de/).
+Marius Hug ist Wissenschaftlicher Mitarbeiter am Zentrum Sprache der [Berlin-Brandenburgischen Akademie der Wissenschaften](https://www.bbaw.de/). Im Rahmen der Nationalen Forschungsdateninfrastruktur (NFDI) betreut er für das Konsortium [Text+](https://text-plus.org/) das [Deutsche Textarchiv](https://www.deutschestextarchiv.de/).

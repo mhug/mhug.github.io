@@ -34,7 +34,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        Ich interessiere mich für Daten im weitesten Sinne: Für die Beschaffung, Veredelung, Visualisierung und Publikation. Aber auf für die Grenze der Datenanalyse.
+        Ich interessiere mich für digitale Daten im weitesten Sinne: Für die Beschaffung, Veredelung, Visualisierung und Publikation. Aber auch für die Grenze der Datenanalyse.
     design:
       columns: '1'
 #  - block: collection
