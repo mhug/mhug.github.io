@@ -1,6 +1,6 @@
 ---
 title: DinglerOnline
-date: 2025-10-09
+date: 2025-02-01
 links:
   - type: site
     url: https://dingler.bbaw.de/ 

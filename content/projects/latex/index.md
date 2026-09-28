@@ -1,11 +1,13 @@
 ---
-title: GBfemmes
-date: 2025-10-10
+title: LaTeX 
+date: 2025-03-01
 links:
   - type: site
     url: https://github.com/deutschestextarchiv/gbfemmes
 ---
 
-Korpus von Texten von Schriftstellerinnen aus dem 19. Jahrhundert 
+Hybrid bedeutet Print
+
+Erfahrung mit Textsatz...
 
 <!--more-->

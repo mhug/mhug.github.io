@@ -1,11 +1,13 @@
 ---
-title: Soldatenbriefe
-date: 2023-10-26
+title: DTA-Korpora
+date: 2025-10-01
 links:
   - type: site
     url: https://github.com/deutschestextarchiv/soldatenbriefe 
 ---
 
-Korpus Soldatenbriefe
+DTA-Korpora
+
+Sophie Tieck... digitale Edition
 
 <!--more-->
