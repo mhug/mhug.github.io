@@ -6,7 +6,6 @@ links:
     url: https://deutschestextarchiv.de/sammlungen/s_tieck/
 weight: 40
 summary: Digitale Edition der Texte von Sophie Tieck  
-featured: true
 
 image:
   caption: 'S. Tieck: Flore und Blanscheflur (Collage aus Bild und Code)'

@@ -29,16 +29,16 @@ sections:
       avatar:
          size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
          shape: rounded # Options: circle (default), square, rounded
-#  - block: markdown
-#    content:
-#      title: 'My Research'
-#      subtitle: ''
-#      text: |-
-#        Ich interessiere mich für Forschungsdaten in einem sehr weiten Sinne: Für die Beschaffung, Veredelung, Visualisierung und Publikation. Aber auch für die Datenanalyse und ihre Grenzen.
-#    design:
-#      columns: '1'
-#     spacing:
-#        padding: ['20px', '0', '0px', '0']  
+  - block: markdown
+    content:
+      title: 'My Research'
+      subtitle: ''
+      text: |-
+        Ich interessiere mich für Forschungsdaten in einem sehr weiten Sinne: Für die Beschaffung, Veredelung, Visualisierung und Publikation. Aber auch für die Datenanalyse und ihre Grenzen.
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '0px', '0']  
 #  - block: collection
 #    id: papers
 #    content:
@@ -50,16 +50,6 @@ sections:
 #    design:
 #      view: article-grid
 #      columns: 2
-  - block: collection
-    content:
-      title: Project Highlights
-      filters:
-        folders:
-          - projects 
-        featured_only: true 
-      count: 2
-    design:
-      view: card
   - block: collection
     content:
       title: Recent Publications

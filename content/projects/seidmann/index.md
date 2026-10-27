@@ -6,7 +6,6 @@ links:
     url: https://staatsbibliothek-berlin.de/die-staatsbibliothek/projekte/beweb-3d 
 weight: 50
 summary: Eine Konzeptstudie zur Digitalisierung dynamischer Buchobjekte
-featured: true
 
 image:
   caption: '[Seidmann-Freud: Das Wunderhaus, 1927](https://leopard.tu-braunschweig.de/receive/dbbs_mods_00051510).'
