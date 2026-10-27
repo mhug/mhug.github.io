@@ -2,6 +2,8 @@
 title: 'Projects'
 date: 2024-05-19
 type: landing
+cascade:
+  share: false
 
 design:
   # Section spacing
@@ -11,9 +13,9 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: ''
-      count: 7
+      title: Projects
+      text: 'Selected projects in which I have been involved'
+      count: 9
       filters:
         folders:
           - projects
@@ -24,4 +26,5 @@ sections:
       show_date: false
       show_read_time: false
       show_read_more: false
+      css_class: hbx-bg-gradient
 ---

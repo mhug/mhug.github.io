@@ -10,33 +10,35 @@ design:
 
 sections:
   - block: resume-biography-3
-    content:
+#    content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ''
+#      username: admin
+#      text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/cv-mh.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
+#      button:
+#        text: Download CV
+#        url: uploads/cv-mh.pdf
+#      headings:
+#        about: ''
+#        education: ''
+#        interests: ''
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: square # Options: circle (default), square, rounded
+         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+         shape: rounded # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: 'My Research'
       subtitle: ''
       text: |-
-        Ich interessiere mich für digitale Daten im weitesten Sinne: Für die Beschaffung, Veredelung, Visualisierung und Publikation. Aber auch für die Grenze der Datenanalyse.
+        Ich interessiere mich für Forschungsdaten in einem sehr weiten Sinne: Für die Beschaffung, Veredelung, Visualisierung und Publikation. Aber auch für die Datenanalyse und ihre Grenzen.
     design:
       columns: '1'
+      spacing:
+        padding: ['20px', '0', '0px', '0']  
 #  - block: collection
 #    id: papers
 #    content:

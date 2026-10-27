@@ -19,19 +19,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Digital Humanist
+#role: Digital Humanist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Berlin-Brandenburgische Akademie der Wissenschaften 
-    url: https://www.bbaw.de
+  - name: ' '
+#    url: https://www.bbaw.de
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:marius.hug@bbaw.de'
-    label: E-mail Me
+#  - icon: at-symbol
+#    url: 'mailto:marius.hug@bbaw.de'
+#    label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
@@ -40,13 +40,14 @@ profiles:
 #    url: https://www.linkedin.com/in/alexjohnsonai/
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0001-6519-9266 
+#  - icon: academicons/orcid
+#    url: https://orcid.org/0000-0001-6519-9266 
 
 interests:
   - Data Science
+  - Data Curation
   - History of Knowledge 
-  - AI Ethics
+  - Typesetting 
 
 education:
   - area: Dr. phil.
@@ -71,10 +72,16 @@ education:
     date_end: 1998-06-01 
 
 work:
+#  - position: Projektmitarbeiter 
+#    company_name: Henricus Edition Deutsche Klassik GmbH
+#    date_start: 2026-10-01
+#    date_end: ''
+#    summary: |
+#      Neue Reihe: ad fontes 
   - position: Wissenschaftlicher Mitarbeiter 
     company_name: Berlin-Brandenburgische Akademie der Wissenschaften
     date_start: 2021-10-01
-    date_end: ''
+    date_end: 2026-09-30 
     summary: |
       Projekt: Text+ 
   - position: Wissenschaftlicher Mitarbeiter 
@@ -132,28 +139,35 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: '' 
     items:
       - name: X-technologies
         description: 'XML, XSLT, XPATH, ODD, Schematron etc.'
         percent: 95
-      #  icon: cloud
       - name: Unix-Tools 
         description: 'regex, csvtools etc.'
         percent: 100
-      #  icon: cloud
       - name: Editors 
         description: 'vim, Oxygen XML'
         percent: 85
-      #  icon: cloud
+      - name: Programmiersprache 
+        description: 'Python'
+        percent: 85
       - name: Versionierung
         description: 'github, subversion'
         percent: 85
+  - name: ' ' 
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
       - name: Textsatz 
         description: 'LaTeX, Indesign'
         percent: 85
       - name: CMS 
         description: 'wordpress, hugo, TYPO3'
+        percent: 85
+      - name: Netzwerkanalyse 
+        description: 'Gephi Lite'
         percent: 85
       - name: Datenbank 
         description: 'SQL, PostgreSQL'
@@ -161,19 +175,16 @@ skills:
       - name: Literaturverwaltung 
         description: 'Zotero, Bibdesk'
         percent: 85
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Rennradfahren
-        description: ''
-        percent: 80
-      - name: Dinge reparieren 
-        description: ''
-        percent: 90
-      - name: Fotografieren
-        description: ''
-        percent: 70
+
+#      - name: Rennradfahren
+#        description: ''
+#        percent: 80
+#      - name: Dinge reparieren 
+#        description: ''
+#        percent: 90
+#      - name: Fotografieren
+#        description: ''
+#        percent: 70
 
 languages:
   - name: German 
@@ -196,5 +207,3 @@ languages:
 #    summary: |
 #      Awarded for groundbreaking work on efficient training of large models.
 ---
-
-Marius Hug ist Wissenschaftlicher Mitarbeiter am Zentrum Sprache der [Berlin-Brandenburgischen Akademie der Wissenschaften](https://www.bbaw.de/). Im Rahmen der Nationalen Forschungsdateninfrastruktur (NFDI) betreut er für das Konsortium [Text+](https://text-plus.org/) das [Deutsche Textarchiv](https://www.deutschestextarchiv.de/).
